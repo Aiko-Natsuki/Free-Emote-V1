@@ -1564,6 +1564,7 @@ addEmote("Do that thang", 113772829398170, 39, "Aug 08, 2025")
 addEmote("Squat?", 95441477641149, 39, "Aug 08, 2025")
 addEmote("Slickback", 103789826265487, 39, "Aug 08, 2025")
 
+addEmote("Columbina Frost Moon Genshin", 94612487841037, 34, "Jun 27, 2026")
 
 
 
