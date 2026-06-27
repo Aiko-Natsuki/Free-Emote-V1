@@ -6,7 +6,7 @@ if env.LastExecuted and tick()-env.LastExecuted<30 then return end
 env.LastExecuted=tick()
 
 -- your script goes here
-print("Script executed!")
+print("Script executed! You are good to go!")
 
 
 
@@ -14,7 +14,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
                 Title = "Wait!",
 
-                Text = "Please Wait, it just loading the button",
+                Text = "Please Wait, it just loading the button... (Discord: aikonatsuki.)",
 
                  Duration = 15})
 
@@ -1567,6 +1567,7 @@ addEmote("Slickback", 103789826265487, 39, "Aug 08, 2025")
 addEmote("Columbina Sleeping Moon Idle Genshin", 81654892735686, 34, "Jun 27, 2026")
 addEmote("Fly fly", 127962503052461, 34, "Jun 27, 2026")
 addEmote("L Dance", 73039500693145, 34, "Jun 27, 2026")
+addEmote("Fighting Emote", 128879296222950, 34, "Jun 27, 2026")
 
 
 
