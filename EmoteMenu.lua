@@ -1574,6 +1574,11 @@ addEmote("Columbina Banner Cute Pose Genshin", 113128453547919, 34, "Jun 28, 202
 addEmote("LIMITED Aura Float Idle AFK Vibe Chill", 137643539266794, 200, "Jun 28, 2026")
 addEmote("LIMITED Chill Floating Pose", 136177432031734, 50, "Jun 28, 2026")
 addEmote("Cat Nap", 105016815489641, 34, "Jun 28, 2026")
+addEmote("Longaodance", 12052135480794, 34, "Jun 28, 2026")
+addEmote("Cute Kawaii Posing", 94064805002669, 34, "Jun 28, 2026")
+addEmote("Kawai Shy Sit Idle Pose", 105933851371838, 34, "Jun 28, 2026")
+
+
 
 
 
