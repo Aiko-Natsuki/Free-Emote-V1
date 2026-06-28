@@ -1,6 +1,6 @@
 --- Keybind to open for pc is "comma" -> " , "
 
--- Made by Gi#7331
+-- Made by Discord: aikonatsuki.
  local env=getgenv()
 if env.LastExecuted and tick()-env.LastExecuted<30 then return end
 env.LastExecuted=tick()
@@ -1570,8 +1570,8 @@ addEmote("L Dance", 73039500693145, 34, "Jun 27, 2026")
 addEmote("Fighting Emote", 128879296222950, 34, "Jun 27, 2026")
 addEmote("Zero Two Dance V2", 95385842020103, 34, "Jun 27, 2026")
 
-
-
+addEmote("Columbina Banner Cute Pose Genshin", 113128453547919, 34, "Jun 28, 2026")
+addEmote("LIMITED Aura Float Idle AFK Vibe Chill", 137643539266794, 34, "Jun 28, 2026")
 
 
 
